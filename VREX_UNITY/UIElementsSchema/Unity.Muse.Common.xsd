@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:editor="UnityEditor.UIElements" xmlns:appui="Unity.Muse.AppUI.UI" xmlns:engine="UnityEngine.UIElements" xmlns="UnityEditor.Overlays" elementFormDefault="qualified" targetNamespace="Unity.Muse.Common" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="UnityEngine.UIElements.xsd" namespace="UnityEngine.UIElements" />
+  <xs:complexType name="MainUIType">
+    <xs:complexContent mixed="false">
+      <xs:restriction base="engine:VisualElementType">
+        <xs:sequence minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="engine:VisualElement" />
+        </xs:sequence>
+        <xs:attribute default="" name="name" type="xs:string" use="optional" />
+        <xs:attribute default="" name="view-data-key" type="xs:string" use="optional" />
+        <xs:attribute default="Position" name="picking-mode" type="engine:VisualElement_picking-mode_Type" use="optional" />
+        <xs:attribute default="" name="tooltip" type="xs:string" use="optional" />
+        <xs:attribute default="None" name="usage-hints" type="engine:VisualElement_usage-hints_Type" use="optional" />
+        <xs:attribute default="0" name="tabindex" type="xs:int" use="optional" />
+        <xs:attribute default="false" name="focusable" type="xs:boolean" use="optional" />
+        <xs:attribute default="" name="class" type="xs:string" use="optional" />
+        <xs:attribute default="" name="content-container" type="xs:string" use="optional" />
+        <xs:attribute default="" name="style" type="xs:string" use="optional" />
+        <xs:anyAttribute processContents="lax" />
+      </xs:restriction>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="MainUI" substitutionGroup="engine:VisualElement" xmlns:q1="Unity.Muse.Common" type="q1:MainUIType" />
+  <xs:complexType name="ScopeToolbarType">
+    <xs:complexContent mixed="false">
+      <xs:restriction base="engine:VisualElementType">
+        <xs:sequence minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="engine:VisualElement" />
+        </xs:sequence>
+        <xs:attribute default="" name="name" type="xs:string" use="optional" />
+        <xs:attribute default="" name="view-data-key" type="xs:string" use="optional" />
+        <xs:attribute default="Position" name="picking-mode" type="engine:VisualElement_picking-mode_Type" use="optional" />
+        <xs:attribute default="" name="tooltip" type="xs:string" use="optional" />
+        <xs:attribute default="None" name="usage-hints" type="engine:VisualElement_usage-hints_Type" use="optional" />
+        <xs:attribute default="0" name="tabindex" type="xs:int" use="optional" />
+        <xs:attribute default="false" name="focusable" type="xs:boolean" use="optional" />
+        <xs:attribute default="" name="class" type="xs:string" use="optional" />
+        <xs:attribute default="" name="content-container" type="xs:string" use="optional" />
+        <xs:attribute default="" name="style" type="xs:string" use="optional" />
+        <xs:anyAttribute processContents="lax" />
+      </xs:restriction>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ScopeToolbar" substitutionGroup="engine:VisualElement" xmlns:q2="Unity.Muse.Common" type="q2:ScopeToolbarType" />
+  <xs:complexType name="AccountDropdownType">
+    <xs:complexContent mixed="false">
+      <xs:restriction base="engine:VisualElementType">
+        <xs:sequence minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="engine:VisualElement" />
+        </xs:sequence>
+        <xs:attribute default="" name="name" type="xs:string" use="optional" />
+        <xs:attribute default="" name="view-data-key" type="xs:string" use="optional" />
+        <xs:attribute default="Position" name="picking-mode" type="engine:VisualElement_picking-mode_Type" use="optional" />
+        <xs:attribute default="" name="tooltip" type="xs:string" use="optional" />
+        <xs:attribute default="None" name="usage-hints" type="engine:VisualElement_usage-hints_Type" use="optional" />
+        <xs:attribute default="0" name="tabindex" type="xs:int" use="optional" />
+        <xs:attribute default="false" name="focusable" type="xs:boolean" use="optional" />
+        <xs:attribute default="" name="class" type="xs:string" use="optional" />
+        <xs:attribute default="" name="content-container" type="xs:string" use="optional" />
+        <xs:attribute default="" name="style" type="xs:string" use="optional" />
+        <xs:anyAttribute processContents="lax" />
+      </xs:restriction>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="AccountDropdown" substitutionGroup="engine:VisualElement" xmlns:q3="Unity.Muse.Common" type="q3:AccountDropdownType" />
+  <xs:complexType name="NodesListType">
+    <xs:complexContent mixed="false">
+      <xs:restriction base="engine:VisualElementType">
+        <xs:sequence minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="engine:VisualElement" />
+        </xs:sequence>
+        <xs:attribute default="" name="name" type="xs:string" use="optional" />
+        <xs:attribute default="" name="view-data-key" type="xs:string" use="optional" />
+        <xs:attribute default="Position" name="picking-mode" type="engine:VisualElement_picking-mode_Type" use="optional" />
+        <xs:attribute default="" name="tooltip" type="xs:string" use="optional" />
+        <xs:attribute default="None" name="usage-hints" type="engine:VisualElement_usage-hints_Type" use="optional" />
+        <xs:attribute default="0" name="tabindex" type="xs:int" use="optional" />
+        <xs:attribute default="false" name="focusable" type="xs:boolean" use="optional" />
+        <xs:attribute default="" name="class" type="xs:string" use="optional" />
+        <xs:attribute default="" name="content-container" type="xs:string" use="optional" />
+        <xs:attribute default="" name="style" type="xs:string" use="optional" />
+        <xs:anyAttribute processContents="lax" />
+      </xs:restriction>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="NodesList" substitutionGroup="engine:VisualElement" xmlns:q4="Unity.Muse.Common" type="q4:NodesListType" />
+  <xs:simpleType name="AssetsList_preferred-tooltip-placement_Type">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Bottom" />
+      <xs:enumeration value="BottomLeft" />
+      <xs:enumeration value="BottomRight" />
+      <xs:enumeration value="BottomStart" />
+      <xs:enumeration value="BottomEnd" />
+      <xs:enumeration value="Top" />
+      <xs:enumeration value="TopLeft" />
+      <xs:enumeration value="TopRight" />
+      <xs:enumeration value="TopStart" />
+      <xs:enumeration value="TopEnd" />
+      <xs:enumeration value="Left" />
+      <xs:enumeration value="LeftTop" />
+      <xs:enumeration value="LeftBottom" />
+      <xs:enumeration value="Start" />
+      <xs:enumeration value="StartTop" />
+      <xs:enumeration value="StartBottom" />
+      <xs:enumeration value="Right" />
+      <xs:enumeration value="RightTop" />
+      <xs:enumeration value="RightBottom" />
+      <xs:enumeration value="End" />
+      <xs:enumeration value="EndTop" />
+      <xs:enumeration value="EndBottom" />
+      <xs:enumeration value="InsideTopStart" />
+      <xs:enumeration value="InsideTopLeft" />
+      <xs:enumeration value="InsideTop" />
+      <xs:enumeration value="InsideTopEnd" />
+      <xs:enumeration value="InsideBottomStart" />
+      <xs:enumeration value="InsideBottom" />
+      <xs:enumeration value="InsideBottomEnd" />
+      <xs:enumeration value="InsideStart" />
+      <xs:enumeration value="InsideEnd" />
+      <xs:enumeration value="InsideCenter" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="AssetsList_scale_Type">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="small" />
+      <xs:enumeration value="medium" />
+      <xs:enumeration value="large" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="AssetsList_theme_Type">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="dark" />
+      <xs:enumeration value="light" />
+      <xs:enumeration value="editor-dark" />
+      <xs:enumeration value="editor-light" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="AssetsList_dir_Type">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Ltr" />
+      <xs:enumeration value="Rtl" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:complexType name="AssetsListType">
+    <xs:complexContent mixed="false">
+      <xs:restriction base="engine:VisualElementType">
+        <xs:sequence minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="engine:VisualElement" />
+        </xs:sequence>
+        <xs:attribute default="" name="name" type="xs:string" use="optional" />
+        <xs:attribute default="" name="view-data-key" type="xs:string" use="optional" />
+        <xs:attribute default="Position" name="picking-mode" type="engine:VisualElement_picking-mode_Type" use="optional" />
+        <xs:attribute default="" name="tooltip" type="xs:string" use="optional" />
+        <xs:attribute default="None" name="usage-hints" type="engine:VisualElement_usage-hints_Type" use="optional" />
+        <xs:attribute default="0" name="tabindex" type="xs:int" use="optional" />
+        <xs:attribute default="false" name="focusable" type="xs:boolean" use="optional" />
+        <xs:attribute default="" name="class" type="xs:string" use="optional" />
+        <xs:attribute default="" name="content-container" type="xs:string" use="optional" />
+        <xs:attribute default="" name="style" type="xs:string" use="optional" />
+        <xs:attribute default="Bottom" name="preferred-tooltip-placement" xmlns:q5="Unity.Muse.Common" type="q5:AssetsList_preferred-tooltip-placement_Type" use="optional" />
+        <xs:attribute default="750" name="tooltip-delay-ms" type="xs:int" use="optional" />
+        <xs:attribute name="scale" xmlns:q6="Unity.Muse.Common" type="q6:AssetsList_scale_Type" use="optional" />
+        <xs:attribute name="theme" xmlns:q7="Unity.Muse.Common" type="q7:AssetsList_theme_Type" use="optional" />
+        <xs:attribute name="lang" type="xs:string" use="optional" />
+        <xs:attribute default="Ltr" name="dir" xmlns:q8="Unity.Muse.Common" type="q8:AssetsList_dir_Type" use="optional" />
+        <xs:attribute default="true" name="enabled" type="xs:boolean" use="optional" />
+        <xs:anyAttribute processContents="lax" />
+      </xs:restriction>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="AssetsList" substitutionGroup="engine:VisualElement" xmlns:q9="Unity.Muse.Common" type="q9:AssetsListType" />
+  <xs:complexType name="CanvasType">
+    <xs:complexContent mixed="false">
+      <xs:restriction base="engine:VisualElementType">
+        <xs:sequence minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="engine:VisualElement" />
+        </xs:sequence>
+        <xs:attribute default="" name="name" type="xs:string" use="optional" />
+        <xs:attribute default="" name="view-data-key" type="xs:string" use="optional" />
+        <xs:attribute default="Position" name="picking-mode" type="engine:VisualElement_picking-mode_Type" use="optional" />
+        <xs:attribute default="" name="tooltip" type="xs:string" use="optional" />
+        <xs:attribute default="None" name="usage-hints" type="engine:VisualElement_usage-hints_Type" use="optional" />
+        <xs:attribute default="0" name="tabindex" type="xs:int" use="optional" />
+        <xs:attribute default="false" name="focusable" type="xs:boolean" use="optional" />
+        <xs:attribute default="" name="class" type="xs:string" use="optional" />
+        <xs:attribute default="" name="content-container" type="xs:string" use="optional" />
+        <xs:attribute default="" name="style" type="xs:string" use="optional" />
+        <xs:anyAttribute processContents="lax" />
+      </xs:restriction>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Canvas" substitutionGroup="engine:VisualElement" xmlns:q10="Unity.Muse.Common" type="q10:CanvasType" />
+  <xs:complexType name="ControlToolbarType">
+    <xs:complexContent mixed="false">
+      <xs:restriction base="engine:VisualElementType">
+        <xs:sequence minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="engine:VisualElement" />
+        </xs:sequence>
+        <xs:attribute default="" name="name" type="xs:string" use="optional" />
+        <xs:attribute default="" name="view-data-key" type="xs:string" use="optional" />
+        <xs:attribute default="Position" name="picking-mode" type="engine:VisualElement_picking-mode_Type" use="optional" />
+        <xs:attribute default="" name="tooltip" type="xs:string" use="optional" />
+        <xs:attribute default="None" name="usage-hints" type="engine:VisualElement_usage-hints_Type" use="optional" />
+        <xs:attribute default="0" name="tabindex" type="xs:int" use="optional" />
+        <xs:attribute default="false" name="focusable" type="xs:boolean" use="optional" />
+        <xs:attribute default="" name="class" type="xs:string" use="optional" />
+        <xs:attribute default="" name="content-container" type="xs:string" use="optional" />
+        <xs:attribute default="" name="style" type="xs:string" use="optional" />
+        <xs:anyAttribute processContents="lax" />
+      </xs:restriction>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ControlToolbar" substitutionGroup="engine:VisualElement" xmlns:q11="Unity.Muse.Common" type="q11:ControlToolbarType" />
+</xs:schema>
