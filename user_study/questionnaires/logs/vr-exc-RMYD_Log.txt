@@ -1,0 +1,1037 @@
+11/27/2024 5:16:16 PM: --- New Game Session Started: 11/27/2024 5:16:16 PM by RMYD ---
+11/27/2024 5:21:22 PM: GHOST GAME STARTED.
+11/27/2024 5:21:46 PM: GHOST ROUND 0 JOYSTICK STARTED
+11/27/2024 5:21:46 PM: [Physics] Boom: (-0.38171, 0.61704, -0.45903, -0.51270), Stick: (-0.63927, 0.01069, -0.76885, -0.00884), Bucket: (-0.47882, 0.50962, -0.57598, -0.42340), Swing: 0.7690364
+[Ghost] Boom: (0.33100, -0.66399, 0.52213, 0.42063), Stick: (0.52766, -0.14155, 0.83276, 0.08974), Bucket: (-0.53564, 0.00380, -0.84443, -0.00139), Swing: (0.00002, -0.84469, 0.00002, 0.53526)
+11/27/2024 5:22:29 PM: BUCKET CAN BE FILLED
+11/27/2024 5:22:30 PM: BUCKET CANNOT BE FILLED
+11/27/2024 5:22:38 PM: SWING Rotation MATCHED
+11/27/2024 5:22:38 PM: Ghost Game Info:
+Boom: Diff=2.842954, Prog=85.005%, Success=False
+Stick: Diff=9.689287, Prog=54.09127%, Success=False
+Bucket: Diff=29.05239, Prog=47.6528%, Success=False
+Swing: Diff=1.414412, Prog=90.46382%, Success=True
+11/27/2024 5:22:48 PM: BOOM Rotation MATCHED
+11/27/2024 5:22:48 PM: Ghost Game Info:
+Boom: Diff=1.498254, Prog=92.09754%, Success=True
+Stick: Diff=7.675147, Prog=63.63445%, Success=False
+Bucket: Diff=17.90056, Prog=67.7464%, Success=False
+Swing: Diff=1.434195, Prog=90.33044%, Success=True
+11/27/2024 5:22:52 PM: BOOM Rotation FAILED
+11/27/2024 5:22:52 PM: Ghost Game Info:
+Boom: Diff=1.69392, Prog=91.06551%, Success=False
+Stick: Diff=15.08353, Prog=28.53287%, Success=False
+Bucket: Diff=10.53282, Prog=81.02174%, Success=False
+Swing: Diff=1.690219, Prog=88.60429%, Success=False
+11/27/2024 5:22:52 PM: SWING Rotation FAILED
+11/27/2024 5:22:52 PM: Ghost Game Info:
+Boom: Diff=1.69392, Prog=91.06551%, Success=False
+Stick: Diff=15.08353, Prog=28.53287%, Success=False
+Bucket: Diff=10.53282, Prog=81.02174%, Success=False
+Swing: Diff=1.690219, Prog=88.60429%, Success=False
+11/27/2024 5:23:05 PM: SWING Rotation MATCHED
+11/27/2024 5:23:05 PM: Ghost Game Info:
+Boom: Diff=2.51233, Prog=86.74886%, Success=False
+Stick: Diff=30.96369, Prog=-46.70882%, Success=False
+Bucket: Diff=4.905119, Prog=91.16185%, Success=False
+Swing: Diff=1.436376, Prog=90.31573%, Success=True
+11/27/2024 5:23:18 PM: BOOM Rotation MATCHED
+11/27/2024 5:23:18 PM: Ghost Game Info:
+Boom: Diff=1.494069, Prog=92.11961%, Success=True
+Stick: Diff=33.00853, Prog=-56.39746%, Success=False
+Bucket: Diff=6.883925, Prog=87.5964%, Success=False
+Swing: Diff=1.409978, Prog=90.49372%, Success=True
+11/27/2024 5:23:26 PM: BUCKET Rotation MATCHED
+11/27/2024 5:23:26 PM: Ghost Game Info:
+Boom: Diff=1.475619, Prog=92.21693%, Success=True
+Stick: Diff=26.65271, Prog=-26.283%, Success=False
+Bucket: Diff=1.456399, Prog=97.37583%, Success=True
+Swing: Diff=1.409978, Prog=90.49372%, Success=True
+11/27/2024 5:23:26 PM: BUCKET Rotation FAILED
+11/27/2024 5:23:26 PM: Ghost Game Info:
+Boom: Diff=1.475619, Prog=92.21693%, Success=True
+Stick: Diff=25.56422, Prog=-21.12564%, Success=False
+Bucket: Diff=1.577646, Prog=97.15736%, Success=False
+Swing: Diff=1.409978, Prog=90.49372%, Success=True
+11/27/2024 5:23:30 PM: STICK Rotation MATCHED
+11/27/2024 5:23:30 PM: Ghost Game Info:
+Boom: Diff=1.475619, Prog=92.21693%, Success=True
+Stick: Diff=1.485663, Prog=92.96079%, Success=True
+Bucket: Diff=25.73577, Prog=53.62875%, Success=False
+Swing: Diff=1.409978, Prog=90.49372%, Success=True
+11/27/2024 5:23:33 PM: BOOM Rotation FAILED
+11/27/2024 5:23:33 PM: Ghost Game Info:
+Boom: Diff=1.501385, Prog=92.08102%, Success=False
+Stick: Diff=1.402743, Prog=93.35368%, Success=True
+Bucket: Diff=26.51529, Prog=52.2242%, Success=False
+Swing: Diff=1.409978, Prog=90.49372%, Success=True
+11/27/2024 5:23:36 PM: BOOM Rotation MATCHED
+11/27/2024 5:23:36 PM: Ghost Game Info:
+Boom: Diff=1.485663, Prog=92.16396%, Success=True
+Stick: Diff=1.393786, Prog=93.39611%, Success=True
+Bucket: Diff=26.46875, Prog=52.30804%, Success=False
+Swing: Diff=1.409978, Prog=90.49372%, Success=True
+11/27/2024 5:23:42 PM: BUCKET Rotation MATCHED
+11/27/2024 5:23:42 PM: Ghost Game Info:
+Boom: Diff=1.416623, Prog=92.5281%, Success=True
+Stick: Diff=1.390413, Prog=93.41209%, Success=True
+Bucket: Diff=1.45317, Prog=97.38165%, Success=True
+Swing: Diff=1.409978, Prog=90.49372%, Success=True
+11/27/2024 5:23:42 PM: EXCAVATOR RotationS MATCHED
+11/27/2024 5:23:42 PM: Ghost Game Info:
+Boom: Diff=1.416623, Prog=92.5281%, Success=True
+Stick: Diff=1.390413, Prog=93.41209%, Success=True
+Bucket: Diff=1.45317, Prog=97.38165%, Success=True
+Swing: Diff=1.409978, Prog=90.49372%, Success=True
+11/27/2024 5:23:42 PM: GHOST ROUND 0 JOYSTICK FINISHED IN 116.085556 SEC.
+11/27/2024 5:23:42 PM: [Physics] Boom: (-0.35512, 0.62661, -0.57677, -0.38547), Stick: (-0.51865, 0.12418, -0.84246, -0.07644), Bucket: (-0.19351, 0.79154, -0.31438, -0.48702), Swing: 0.8516336
+[Ghost] Boom: (0.36173, -0.62234, 0.57176, 0.39363), Stick: (0.52888, -0.12204, 0.83630, 0.07735), Bucket: (-0.19715, 0.78521, -0.31265, -0.49682), Swing: (0.00002, -0.84511, 0.00002, 0.53460)
+11/27/2024 5:23:48 PM: GHOST ROUND 1 JOYSTICK STARTED
+11/27/2024 5:23:48 PM: [Physics] Boom: (-0.38171, 0.61704, -0.45903, -0.51270), Stick: (-0.63927, 0.01069, -0.76885, -0.00884), Bucket: (-0.47882, 0.50962, -0.57598, -0.42340), Swing: 0.7690364
+[Ghost] Boom: (0.36173, -0.62234, 0.57176, 0.39363), Stick: (0.52888, -0.12204, 0.83630, 0.07735), Bucket: (-0.19715, 0.78521, -0.31265, -0.49682), Swing: (0.00002, -0.84511, 0.00002, 0.53460)
+11/27/2024 5:23:48 PM: BOOM Rotation FAILED
+11/27/2024 5:23:48 PM: Ghost Game Info:
+Boom: Diff=18.95934, Prog=0%, Success=False
+Stick: Diff=21.10554, Prog=0%, Success=False
+Bucket: Diff=55.49941, Prog=0%, Success=False
+Swing: Diff=14.83206, Prog=0%, Success=False
+11/27/2024 5:23:48 PM: STICK Rotation FAILED
+11/27/2024 5:23:48 PM: Ghost Game Info:
+Boom: Diff=18.95934, Prog=0%, Success=False
+Stick: Diff=21.10554, Prog=0%, Success=False
+Bucket: Diff=55.49941, Prog=0%, Success=False
+Swing: Diff=14.83206, Prog=0%, Success=False
+11/27/2024 5:23:48 PM: BUCKET Rotation FAILED
+11/27/2024 5:23:48 PM: Ghost Game Info:
+Boom: Diff=18.95934, Prog=0%, Success=False
+Stick: Diff=21.10554, Prog=0%, Success=False
+Bucket: Diff=55.49941, Prog=0%, Success=False
+Swing: Diff=14.83206, Prog=0%, Success=False
+11/27/2024 5:23:48 PM: SWING Rotation FAILED
+11/27/2024 5:23:48 PM: Ghost Game Info:
+Boom: Diff=18.95934, Prog=0%, Success=False
+Stick: Diff=21.10554, Prog=0%, Success=False
+Bucket: Diff=55.49941, Prog=0%, Success=False
+Swing: Diff=14.83206, Prog=0%, Success=False
+11/27/2024 5:23:48 PM: EXCAVATOR RotationS FAILED
+11/27/2024 5:23:48 PM: Ghost Game Info:
+Boom: Diff=18.95934, Prog=0%, Success=False
+Stick: Diff=21.10554, Prog=0%, Success=False
+Bucket: Diff=55.49941, Prog=0%, Success=False
+Swing: Diff=14.83206, Prog=0%, Success=False
+11/27/2024 5:24:00 PM: BUCKET CAN BE FILLED
+11/27/2024 5:24:01 PM: BUCKET CANNOT BE FILLED
+11/27/2024 5:24:13 PM: STICK Rotation MATCHED
+11/27/2024 5:24:13 PM: Ghost Game Info:
+Boom: Diff=16.40994, Prog=75.90792%, Success=False
+Stick: Diff=1.351592, Prog=98.14774%, Success=True
+Bucket: Diff=34.24872, Prog=63.37965%, Success=False
+Swing: Diff=1.303842, Prog=98.04975%, Success=True
+11/27/2024 5:24:13 PM: SWING Rotation MATCHED
+11/27/2024 5:24:13 PM: Ghost Game Info:
+Boom: Diff=16.40994, Prog=75.90792%, Success=False
+Stick: Diff=1.351592, Prog=98.14774%, Success=True
+Bucket: Diff=34.24872, Prog=63.37965%, Success=False
+Swing: Diff=1.303842, Prog=98.04975%, Success=True
+11/27/2024 5:24:13 PM: STICK Rotation FAILED
+11/27/2024 5:24:13 PM: Ghost Game Info:
+Boom: Diff=16.4075, Prog=75.91151%, Success=False
+Stick: Diff=1.668782, Prog=97.71306%, Success=False
+Bucket: Diff=33.41423, Prog=64.27193%, Success=False
+Swing: Diff=1.26978, Prog=98.1007%, Success=True
+11/27/2024 5:24:45 PM: BOOM Rotation MATCHED
+11/27/2024 5:24:45 PM: Ghost Game Info:
+Boom: Diff=1.495639, Prog=97.80419%, Success=True
+Stick: Diff=20.39492, Prog=72.0503%, Success=False
+Bucket: Diff=14.19615, Prog=84.82081%, Success=False
+Swing: Diff=1.26978, Prog=98.1007%, Success=True
+11/27/2024 5:24:58 PM: STICK Rotation MATCHED
+11/27/2024 5:24:58 PM: Ghost Game Info:
+Boom: Diff=1.265458, Prog=98.14213%, Success=True
+Stick: Diff=1.452093, Prog=98.01002%, Success=True
+Bucket: Diff=33.77446, Prog=63.88676%, Success=False
+Swing: Diff=1.26978, Prog=98.1007%, Success=True
+11/27/2024 5:25:05 PM: BUCKET Rotation MATCHED
+11/27/2024 5:25:05 PM: Ghost Game Info:
+Boom: Diff=1.265458, Prog=98.14213%, Success=True
+Stick: Diff=1.366566, Prog=98.12723%, Success=True
+Bucket: Diff=1.344625, Prog=98.56226%, Success=True
+Swing: Diff=1.26978, Prog=98.1007%, Success=True
+11/27/2024 5:25:05 PM: EXCAVATOR RotationS MATCHED
+11/27/2024 5:25:05 PM: Ghost Game Info:
+Boom: Diff=1.265458, Prog=98.14213%, Success=True
+Stick: Diff=1.366566, Prog=98.12723%, Success=True
+Bucket: Diff=1.344625, Prog=98.56226%, Success=True
+Swing: Diff=1.26978, Prog=98.1007%, Success=True
+11/27/2024 5:25:05 PM: GHOST ROUND 1 JOYSTICK FINISHED IN 77.592789 SEC.
+11/27/2024 5:25:05 PM: [Physics] Boom: (-0.04922, 0.86373, -0.49419, -0.08561), Stick: (-0.09515, 0.27518, -0.95628, -0.02726), Bucket: (-0.02376, 0.96609, -0.23856, -0.09584), Swing: 0.9951091
+[Ghost] Boom: (0.05469, -0.86320, 0.49279, 0.09514), Stick: (0.10542, -0.27954, 0.95383, 0.03073), Bucket: (-0.02576, 0.96580, -0.23486, -0.10684), Swing: (0.00001, -0.99395, 0.00002, 0.10982)
+11/27/2024 5:25:11 PM: GHOST ROUND 2 JOYSTICK STARTED
+11/27/2024 5:25:11 PM: [Physics] Boom: (-0.38171, 0.61704, -0.45903, -0.51270), Stick: (-0.63927, 0.01069, -0.76885, -0.00884), Bucket: (-0.47882, 0.50962, -0.57598, -0.42340), Swing: 0.7690364
+[Ghost] Boom: (0.05469, -0.86320, 0.49279, 0.09514), Stick: (0.10542, -0.27954, 0.95383, 0.03073), Bucket: (-0.02576, 0.96580, -0.23486, -0.10684), Swing: (0.00001, -0.99395, 0.00002, 0.10982)
+11/27/2024 5:25:11 PM: BOOM Rotation FAILED
+11/27/2024 5:25:11 PM: Ghost Game Info:
+Boom: Diff=68.11342, Prog=0%, Success=False
+Stick: Diff=72.97009, Prog=0%, Success=False
+Bucket: Diff=93.52374, Prog=0%, Success=False
+Swing: Diff=66.85509, Prog=0%, Success=False
+11/27/2024 5:25:11 PM: STICK Rotation FAILED
+11/27/2024 5:25:11 PM: Ghost Game Info:
+Boom: Diff=68.11342, Prog=0%, Success=False
+Stick: Diff=72.97009, Prog=0%, Success=False
+Bucket: Diff=93.52374, Prog=0%, Success=False
+Swing: Diff=66.85509, Prog=0%, Success=False
+11/27/2024 5:25:11 PM: BUCKET Rotation FAILED
+11/27/2024 5:25:11 PM: Ghost Game Info:
+Boom: Diff=68.11342, Prog=0%, Success=False
+Stick: Diff=72.97009, Prog=0%, Success=False
+Bucket: Diff=93.52374, Prog=0%, Success=False
+Swing: Diff=66.85509, Prog=0%, Success=False
+11/27/2024 5:25:11 PM: SWING Rotation FAILED
+11/27/2024 5:25:11 PM: Ghost Game Info:
+Boom: Diff=68.11342, Prog=0%, Success=False
+Stick: Diff=72.97009, Prog=0%, Success=False
+Bucket: Diff=93.52374, Prog=0%, Success=False
+Swing: Diff=66.85509, Prog=0%, Success=False
+11/27/2024 5:25:11 PM: EXCAVATOR RotationS FAILED
+11/27/2024 5:25:11 PM: Ghost Game Info:
+Boom: Diff=68.11342, Prog=0%, Success=False
+Stick: Diff=72.97009, Prog=0%, Success=False
+Bucket: Diff=93.52374, Prog=0%, Success=False
+Swing: Diff=66.85509, Prog=0%, Success=False
+11/27/2024 5:25:41 PM: SWING Rotation MATCHED
+11/27/2024 5:25:41 PM: Ghost Game Info:
+Boom: Diff=25.86585, Prog=73.35389%, Success=False
+Stick: Diff=2.662972, Prog=97.2685%, Success=False
+Bucket: Diff=96.45953, Prog=18.40521%, Success=False
+Swing: Diff=1.427631, Prog=98.49703%, Success=True
+11/27/2024 5:25:44 PM: STICK Rotation MATCHED
+11/27/2024 5:25:44 PM: Ghost Game Info:
+Boom: Diff=25.03652, Prog=74.20824%, Success=False
+Stick: Diff=1.462834, Prog=98.49953%, Success=True
+Bucket: Diff=97.2432, Prog=17.74231%, Success=False
+Swing: Diff=0, Prog=100%, Success=True
+11/27/2024 5:25:44 PM: STICK Rotation FAILED
+11/27/2024 5:25:44 PM: Ghost Game Info:
+Boom: Diff=22.03324, Prog=77.30212%, Success=False
+Stick: Diff=1.541512, Prog=98.41882%, Success=False
+Bucket: Diff=100.2466, Prog=15.20177%, Success=False
+Swing: Diff=0, Prog=100%, Success=True
+11/27/2024 5:25:49 PM: BOOM Rotation MATCHED
+11/27/2024 5:25:49 PM: Ghost Game Info:
+Boom: Diff=1.431464, Prog=98.52535%, Success=True
+Stick: Diff=22.14032, Prog=77.28995%, Success=False
+Bucket: Diff=120.8464, Prog=-2.223564%, Success=False
+Swing: Diff=0, Prog=100%, Success=True
+11/27/2024 5:26:06 PM: BUCKET CAN BE FILLED
+11/27/2024 5:26:10 PM: STICK Rotation MATCHED
+11/27/2024 5:26:10 PM: Ghost Game Info:
+Boom: Diff=0.9056793, Prog=99.067%, Success=True
+Stick: Diff=1.436921, Prog=98.5261%, Success=True
+Bucket: Diff=90.38553, Prog=23.54319%, Success=False
+Swing: Diff=0.6355037, Prog=99.33096%, Success=True
+11/27/2024 5:26:12 PM: BUCKET IS FILLED
+11/27/2024 5:26:16 PM: BUCKET Rotation MATCHED
+11/27/2024 5:26:16 PM: Ghost Game Info:
+Boom: Diff=0.9429379, Prog=99.02862%, Success=True
+Stick: Diff=1.146698, Prog=98.82379%, Success=True
+Bucket: Diff=1.364846, Prog=98.84548%, Success=True
+Swing: Diff=0.6355037, Prog=99.33096%, Success=True
+11/27/2024 5:26:16 PM: EXCAVATOR RotationS MATCHED
+11/27/2024 5:26:16 PM: Ghost Game Info:
+Boom: Diff=0.9429379, Prog=99.02862%, Success=True
+Stick: Diff=1.146698, Prog=98.82379%, Success=True
+Bucket: Diff=1.364846, Prog=98.84548%, Success=True
+Swing: Diff=0.6355037, Prog=99.33096%, Success=True
+11/27/2024 5:26:16 PM: GHOST ROUND 2 JOYSTICK FINISHED IN 64.911401 SEC.
+11/27/2024 5:26:16 PM: [Physics] Boom: (-0.43039, 0.03875, -0.01832, -0.90163), Stick: (-0.97378, 0.00963, -0.04153, -0.22347), Bucket: (-0.99893, 0.00086, -0.04286, -0.01757), Swing: 0.0428345
+[Ghost] Boom: (0.42489, -0.04410, 0.02028, 0.90394), Stick: (0.97166, -0.01152, 0.04693, 0.23140), Bucket: (-0.99873, 0.00205, -0.04785, -0.01556), Swing: (0.00002, -0.04839, 0.00000, 0.99883)
+11/27/2024 5:26:18 PM: GHOST GAME FINISHED
+11/27/2024 5:26:22 PM: BUCKET GAME STARTED.
+11/27/2024 5:26:27 PM: BUCKET ROUND 0 JOYSTICK STARTED
+11/27/2024 5:26:27 PM: dropSandPoint position: (-9.18, 0.06, 18.67), bigSandPile position: (-8.99, 0.75, 24.74), targetLocation position: (-7.95, -4.73, 15.80), fullDistance: 9.000288, fullAngle: 124.4103
+11/27/2024 5:27:37 PM: BUCKET CAN BE FILLED
+11/27/2024 5:27:54 PM: BUCKET IS FILLED
+11/27/2024 5:28:27 PM: BUCKET ROUND 0 JOYSTICK FINISHED IN 120.305739 SEC with 0 failed attempts.
+11/27/2024 5:28:27 PM: dropSandPoint position: (-11.13, -4.38, 16.02), bigSandPile position: (-8.99, 0.75, 24.74), targetLocation position: (-7.95, -4.73, 15.80), fullDistance: 9.000288, fullAngle: 124.4103
+11/27/2024 5:28:27 PM: SAND DROPPED AT: (-11.13, -4.38, 16.02). TARGET REACHED
+11/27/2024 5:28:27 PM: Bucket: isEmpty
+Target: Dist=(3.182649, 0.2292109), DirectDist=3.190892, PositionProg=64.54678%, CurrAngle=10.0119, AngleProg=91.95251%SandPile: Dist=(2.142649, 8.710789), DirectDist=8.970439, PositionProg=0.3316455%, CurrAngle=46.60954, AngleProg=62.53561%
+11/27/2024 5:28:33 PM: BUCKET ROUND 1 JOYSTICK STARTED
+11/27/2024 5:28:33 PM: dropSandPoint position: (-9.18, 0.06, 18.67), bigSandPile position: (-8.99, 0.75, 24.74), targetLocation position: (-7.41, -6.06, 18.58), fullDistance: 6.359402, fullAngle: 129.9922
+11/27/2024 5:29:00 PM: BUCKET CAN BE FILLED
+11/27/2024 5:29:21 PM: BUCKET IS FILLED
+11/27/2024 5:29:45 PM: BUCKET ROUND 1 JOYSTICK FINISHED IN 72.796413 SEC with 0 failed attempts.
+11/27/2024 5:29:45 PM: dropSandPoint position: (-10.14, -4.31, 17.18), bigSandPile position: (-8.99, 0.75, 24.74), targetLocation position: (-7.41, -6.06, 18.58), fullDistance: 6.359402, fullAngle: 129.9922
+11/27/2024 5:29:45 PM: SAND DROPPED AT: (-10.14, -4.31, 17.18). TARGET REACHED
+11/27/2024 5:29:45 PM: Bucket: isEmpty
+Target: Dist=(2.729426, 1.397928), DirectDist=3.06659, PositionProg=51.77865%, CurrAngle=15.04533, AngleProg=88.42597%SandPile: Dist=(1.149426, 7.557928), DirectDist=7.644832, PositionProg=-20.21306%, CurrAngle=44.50348, AngleProg=65.76449%
+11/27/2024 5:29:49 PM: BUCKET ROUND 2 JOYSTICK STARTED
+11/27/2024 5:29:49 PM: dropSandPoint position: (-9.18, 0.06, 18.67), bigSandPile position: (-8.99, 0.75, 24.74), targetLocation position: (3.13, -2.03, 30.98), fullDistance: 13.63202, fullAngle: 99.33078
+11/27/2024 5:29:54 PM: BUCKET CAN BE FILLED
+11/27/2024 5:29:58 PM: BUCKET CANNOT BE FILLED
+11/27/2024 5:30:25 PM: BUCKET CAN BE FILLED
+11/27/2024 5:30:30 PM: BUCKET CANNOT BE FILLED
+11/27/2024 5:30:39 PM: BUCKET CAN BE FILLED
+11/27/2024 5:30:50 PM: BUCKET IS FILLED
+11/27/2024 5:30:52 PM: SAND DROPPED AT: (-10.35, 1.49, 28.31). TARGET MISSED
+11/27/2024 5:30:52 PM: Bucket: isEmpty
+Target: Dist=(13.4794, 2.66048), DirectDist=13.73945, PositionProg=-0.7880463%, CurrAngle=70.47239, AngleProg=29.05282%SandPile: Dist=(1.359403, 3.579521), DirectDist=3.828962, PositionProg=71.91201%, CurrAngle=12.87167, AngleProg=87.0416%
+11/27/2024 5:31:23 PM: BUCKET CAN BE FILLED
+11/27/2024 5:31:27 PM: BUCKET IS FILLED
+11/27/2024 5:32:01 PM: SAND DROPPED AT: (-2.50, 1.66, 28.70). TARGET MISSED
+11/27/2024 5:32:01 PM: Bucket: isEmpty
+Target: Dist=(5.631716, 2.272961), DirectDist=6.073103, PositionProg=55.44972%, CurrAngle=40.45456, AngleProg=59.27288%SandPile: Dist=(6.488284, 3.967041), DirectDist=7.604949, PositionProg=44.21262%, CurrAngle=45.91962, AngleProg=53.77101%
+11/27/2024 5:32:46 PM: BUCKET CAN BE FILLED
+11/27/2024 5:32:50 PM: BUCKET IS FILLED
+11/27/2024 5:33:55 PM: BUCKET ROUND 2 JOYSTICK FINISHED IN 245.925607 SEC with 2 failed attempts.
+11/27/2024 5:33:55 PM: dropSandPoint position: (0.93, -1.63, 29.38), bigSandPile position: (-8.99, 0.75, 24.74), targetLocation position: (3.13, -2.03, 30.98), fullDistance: 13.63202, fullAngle: 99.33078
+11/27/2024 5:33:55 PM: SAND DROPPED AT: (0.93, -1.63, 29.38). TARGET REACHED
+11/27/2024 5:33:55 PM: Bucket: isEmpty
+Target: Dist=(2.199299, 1.595398), DirectDist=2.717023, PositionProg=80.06882%, CurrAngle=11.49716, AngleProg=88.42538%SandPile: Dist=(9.9207, 4.644604), DirectDist=10.95411, PositionProg=19.64424%, CurrAngle=69.28466, AngleProg=30.24855%
+11/27/2024 5:33:58 PM: BUCKET GAME FINISHED
+11/27/2024 5:39:16 PM: GHOST GAME STARTED.
+11/27/2024 5:39:20 PM: GHOST ROUND 0 MINIATURE STARTED
+11/27/2024 5:39:20 PM: [Physics] Boom: (-0.38171, 0.61704, -0.45903, -0.51270), Stick: (-0.63927, 0.01069, -0.76885, -0.00884), Bucket: (-0.47882, 0.50962, -0.57598, -0.42340), Swing: 0.7690364
+[Ghost] Boom: (0.42489, -0.04410, 0.02028, 0.90394), Stick: (0.97166, -0.01152, 0.04693, 0.23140), Bucket: (-0.99873, 0.00205, -0.04785, -0.01556), Swing: (0.00002, -0.04839, 0.00000, 0.99883)
+11/27/2024 5:39:20 PM: BOOM Rotation FAILED
+11/27/2024 5:39:20 PM: Ghost Game Info:
+Boom: Diff=97.07178, Prog=-168.0659%, Success=False
+Stick: Diff=97.49126, Prog=-73.2215%, Success=False
+Bucket: Diff=118.2178, Prog=-41.39458%, Success=False
+Swing: Diff=94.98733, Prog=-966.274%, Success=False
+11/27/2024 5:39:20 PM: STICK Rotation FAILED
+11/27/2024 5:39:20 PM: Ghost Game Info:
+Boom: Diff=97.07178, Prog=-168.0659%, Success=False
+Stick: Diff=97.49126, Prog=-73.2215%, Success=False
+Bucket: Diff=118.2178, Prog=-41.39458%, Success=False
+Swing: Diff=94.98733, Prog=-966.274%, Success=False
+11/27/2024 5:39:20 PM: BUCKET Rotation FAILED
+11/27/2024 5:39:20 PM: Ghost Game Info:
+Boom: Diff=97.07178, Prog=-168.0659%, Success=False
+Stick: Diff=97.49126, Prog=-73.2215%, Success=False
+Bucket: Diff=118.2178, Prog=-41.39458%, Success=False
+Swing: Diff=94.98733, Prog=-966.274%, Success=False
+11/27/2024 5:39:20 PM: SWING Rotation FAILED
+11/27/2024 5:39:20 PM: Ghost Game Info:
+Boom: Diff=97.07178, Prog=-168.0659%, Success=False
+Stick: Diff=97.49126, Prog=-73.2215%, Success=False
+Bucket: Diff=118.2178, Prog=-41.39458%, Success=False
+Swing: Diff=94.98733, Prog=-966.274%, Success=False
+11/27/2024 5:39:20 PM: EXCAVATOR RotationS FAILED
+11/27/2024 5:39:20 PM: Ghost Game Info:
+Boom: Diff=97.07178, Prog=-168.0659%, Success=False
+Stick: Diff=97.49126, Prog=-73.2215%, Success=False
+Bucket: Diff=118.2178, Prog=-41.39458%, Success=False
+Swing: Diff=94.98733, Prog=-966.274%, Success=False
+11/27/2024 5:39:35 PM: SWING Rotation MATCHED
+11/27/2024 5:39:35 PM: Ghost Game Info:
+Boom: Diff=22.05285, Prog=-16.35931%, Success=False
+Stick: Diff=28.00076, Prog=-32.68872%, Success=False
+Bucket: Diff=71.80563, Prog=-29.39543%, Success=False
+Swing: Diff=1.363699, Prog=90.80761%, Success=True
+11/27/2024 5:39:35 PM: SWING Rotation FAILED
+11/27/2024 5:39:35 PM: Ghost Game Info:
+Boom: Diff=24.4786, Prog=-29.15846%, Success=False
+Stick: Diff=31.91033, Prog=-51.21518%, Success=False
+Bucket: Diff=74.17995, Prog=-33.674%, Success=False
+Swing: Diff=1.754745, Prog=88.17165%, Success=False
+11/27/2024 5:39:37 PM: SWING Rotation MATCHED
+11/27/2024 5:39:37 PM: Ghost Game Info:
+Boom: Diff=28.03327, Prog=-47.91426%, Success=False
+Stick: Diff=32.79927, Prog=-55.42766%, Success=False
+Bucket: Diff=76.79264, Prog=-38.38214%, Success=False
+Swing: Diff=1.232876, Prog=91.68945%, Success=True
+11/27/2024 5:39:38 PM: SWING Rotation FAILED
+11/27/2024 5:39:38 PM: Ghost Game Info:
+Boom: Diff=28.69148, Prog=-51.38724%, Success=False
+Stick: Diff=34.248, Prog=-62.29283%, Success=False
+Bucket: Diff=75.02004, Prog=-35.18788%, Success=False
+Swing: Diff=1.58062, Prog=89.34539%, Success=False
+11/27/2024 5:39:46 PM: SWING Rotation MATCHED
+11/27/2024 5:39:46 PM: Ghost Game Info:
+Boom: Diff=30.52661, Prog=-61.07011%, Success=False
+Stick: Diff=14.96645, Prog=29.07768%, Success=False
+Bucket: Diff=76.62096, Prog=-38.07275%, Success=False
+Swing: Diff=1.219471, Prog=91.77982%, Success=True
+11/27/2024 5:39:48 PM: SWING Rotation FAILED
+11/27/2024 5:39:48 PM: Ghost Game Info:
+Boom: Diff=21.84195, Prog=-15.24649%, Success=False
+Stick: Diff=1.842647, Prog=91.26815%, Success=False
+Bucket: Diff=95.31689, Prog=-71.76326%, Success=False
+Swing: Diff=1.631787, Prog=89.00048%, Success=False
+11/27/2024 5:39:53 PM: SWING Rotation MATCHED
+11/27/2024 5:39:53 PM: Ghost Game Info:
+Boom: Diff=2.994481, Prog=84.19997%, Success=False
+Stick: Diff=12.55958, Prog=40.48325%, Success=False
+Bucket: Diff=77.78307, Prog=-40.1669%, Success=False
+Swing: Diff=1.414412, Prog=90.46576%, Success=True
+11/27/2024 5:39:54 PM: SWING Rotation FAILED
+11/27/2024 5:39:54 PM: Ghost Game Info:
+Boom: Diff=4.148485, Prog=78.11101%, Success=False
+Stick: Diff=6.072955, Prog=71.22176%, Success=False
+Bucket: Diff=75.53835, Prog=-36.12189%, Success=False
+Swing: Diff=1.50451, Prog=89.85843%, Success=False
+11/27/2024 5:39:58 PM: SWING Rotation MATCHED
+11/27/2024 5:39:58 PM: Ghost Game Info:
+Boom: Diff=3.323079, Prog=82.46616%, Success=False
+Stick: Diff=9.479415, Prog=55.07939%, Success=False
+Bucket: Diff=19.1591, Prog=65.47485%, Success=False
+Swing: Diff=1.419383, Prog=90.43225%, Success=True
+11/27/2024 5:40:02 PM: SWING Rotation FAILED
+11/27/2024 5:40:02 PM: Ghost Game Info:
+Boom: Diff=3.499766, Prog=81.53389%, Success=False
+Stick: Diff=2.795476, Prog=86.75293%, Success=False
+Bucket: Diff=3.398775, Prog=93.87533%, Success=False
+Swing: Diff=1.657014, Prog=88.83043%, Success=False
+11/27/2024 5:40:03 PM: SWING Rotation MATCHED
+11/27/2024 5:40:03 PM: Ghost Game Info:
+Boom: Diff=2.821951, Prog=85.11031%, Success=False
+Stick: Diff=11.59321, Prog=45.06264%, Success=False
+Bucket: Diff=12.28892, Prog=77.85507%, Success=False
+Swing: Diff=1.38985, Prog=90.63132%, Success=True
+11/27/2024 5:40:04 PM: BOOM Rotation MATCHED
+11/27/2024 5:40:04 PM: Ghost Game Info:
+Boom: Diff=1.403858, Prog=92.5927%, Success=True
+Stick: Diff=13.216, Prog=37.37262%, Success=False
+Bucket: Diff=13.91298, Prog=74.92848%, Success=False
+Swing: Diff=1.153504, Prog=92.22449%, Success=True
+11/27/2024 5:40:05 PM: STICK Rotation MATCHED
+11/27/2024 5:40:05 PM: Ghost Game Info:
+Boom: Diff=0.765146, Prog=95.9628%, Success=True
+Stick: Diff=1.412197, Prog=93.30795%, Success=True
+Bucket: Diff=2.104409, Prog=96.2078%, Success=False
+Swing: Diff=0, Prog=100%, Success=True
+11/27/2024 5:40:05 PM: BUCKET Rotation MATCHED
+11/27/2024 5:40:05 PM: Ghost Game Info:
+Boom: Diff=0.765146, Prog=95.9628%, Success=True
+Stick: Diff=0.5706105, Prog=97.29602%, Success=True
+Bucket: Diff=1.253027, Prog=97.74202%, Success=True
+Swing: Diff=0, Prog=100%, Success=True
+11/27/2024 5:40:05 PM: EXCAVATOR RotationS MATCHED
+11/27/2024 5:40:05 PM: Ghost Game Info:
+Boom: Diff=0.765146, Prog=95.9628%, Success=True
+Stick: Diff=0.5706105, Prog=97.29602%, Success=True
+Bucket: Diff=1.253027, Prog=97.74202%, Success=True
+Swing: Diff=0, Prog=100%, Success=True
+11/27/2024 5:40:06 PM: GHOST ROUND 0 MINIATURE FINISHED IN 46.019008 SEC.
+11/27/2024 5:40:06 PM: [Physics] Boom: (-0.35995, 0.62554, -0.56737, -0.39652), Stick: (-0.52998, 0.12269, -0.83547, -0.07781), Bucket: (-0.20060, 0.78310, -0.31628, -0.49648), Swing: 0.8445042
+[Ghost] Boom: (0.36166, -0.62242, 0.57168, 0.39366), Stick: (0.52887, -0.12199, 0.83633, 0.07732), Bucket: (-0.19717, 0.78520, -0.31271, -0.49678), Swing: (0.00002, -0.84512, 0.00002, 0.53457)
+11/27/2024 5:40:08 PM: GHOST ROUND 1 MINIATURE STARTED
+11/27/2024 5:40:08 PM: [Physics] Boom: (-0.38171, 0.61704, -0.45903, -0.51270), Stick: (-0.63927, 0.01069, -0.76885, -0.00884), Bucket: (-0.47882, 0.50962, -0.57598, -0.42340), Swing: 0.7690364
+[Ghost] Boom: (0.36166, -0.62242, 0.57168, 0.39366), Stick: (0.52887, -0.12199, 0.83633, 0.07732), Bucket: (-0.19717, 0.78520, -0.31271, -0.49678), Swing: (0.00002, -0.84512, 0.00002, 0.53457)
+11/27/2024 5:40:08 PM: BOOM Rotation FAILED
+11/27/2024 5:40:08 PM: Ghost Game Info:
+Boom: Diff=18.95238, Prog=0%, Success=False
+Stick: Diff=21.1026, Prog=0%, Success=False
+Bucket: Diff=55.49318, Prog=0%, Success=False
+Swing: Diff=14.83508, Prog=0%, Success=False
+11/27/2024 5:40:08 PM: STICK Rotation FAILED
+11/27/2024 5:40:08 PM: Ghost Game Info:
+Boom: Diff=18.95238, Prog=0%, Success=False
+Stick: Diff=21.1026, Prog=0%, Success=False
+Bucket: Diff=55.49318, Prog=0%, Success=False
+Swing: Diff=14.83508, Prog=0%, Success=False
+11/27/2024 5:40:08 PM: BUCKET Rotation FAILED
+11/27/2024 5:40:08 PM: Ghost Game Info:
+Boom: Diff=18.95238, Prog=0%, Success=False
+Stick: Diff=21.1026, Prog=0%, Success=False
+Bucket: Diff=55.49318, Prog=0%, Success=False
+Swing: Diff=14.83508, Prog=0%, Success=False
+11/27/2024 5:40:08 PM: SWING Rotation FAILED
+11/27/2024 5:40:08 PM: Ghost Game Info:
+Boom: Diff=18.95238, Prog=0%, Success=False
+Stick: Diff=21.1026, Prog=0%, Success=False
+Bucket: Diff=55.49318, Prog=0%, Success=False
+Swing: Diff=14.83508, Prog=0%, Success=False
+11/27/2024 5:40:08 PM: EXCAVATOR RotationS FAILED
+11/27/2024 5:40:08 PM: Ghost Game Info:
+Boom: Diff=18.95238, Prog=0%, Success=False
+Stick: Diff=21.1026, Prog=0%, Success=False
+Bucket: Diff=55.49318, Prog=0%, Success=False
+Swing: Diff=14.83508, Prog=0%, Success=False
+11/27/2024 5:40:19 PM: SWING Rotation MATCHED
+11/27/2024 5:40:19 PM: Ghost Game Info:
+Boom: Diff=25.70938, Prog=61.8643%, Success=False
+Stick: Diff=16.56741, Prog=76.93509%, Success=False
+Bucket: Diff=109.988, Prog=-20.81072%, Success=False
+Swing: Diff=1.372281, Prog=97.92132%, Success=True
+11/27/2024 5:40:19 PM: SWING Rotation FAILED
+11/27/2024 5:40:19 PM: Ghost Game Info:
+Boom: Diff=25.73101, Prog=61.8322%, Success=False
+Stick: Diff=16.59673, Prog=76.89427%, Success=False
+Bucket: Diff=125.839, Prog=-38.22145%, Success=False
+Swing: Diff=1.727322, Prog=97.38352%, Success=False
+11/27/2024 5:40:35 PM: SWING Rotation MATCHED
+11/27/2024 5:40:35 PM: Ghost Game Info:
+Boom: Diff=24.63719, Prog=63.45472%, Success=False
+Stick: Diff=15.60299, Prog=78.27773%, Success=False
+Bucket: Diff=16.34506, Prog=82.0466%, Success=False
+Swing: Diff=1.302641, Prog=98.02681%, Success=True
+11/27/2024 5:40:35 PM: SWING Rotation FAILED
+11/27/2024 5:40:35 PM: Ghost Game Info:
+Boom: Diff=24.53148, Prog=63.61153%, Success=False
+Stick: Diff=17.40147, Prog=75.77393%, Success=False
+Bucket: Diff=18.13631, Prog=80.07909%, Success=False
+Swing: Diff=1.785696, Prog=97.2951%, Success=False
+11/27/2024 5:40:38 PM: SWING Rotation MATCHED
+11/27/2024 5:40:38 PM: Ghost Game Info:
+Boom: Diff=23.20345, Prog=65.58144%, Success=False
+Stick: Diff=21.35946, Prog=70.26366%, Success=False
+Bucket: Diff=22.09756, Prog=75.72806%, Success=False
+Swing: Diff=1.462834, Prog=97.78416%, Success=True
+11/27/2024 5:40:38 PM: SWING Rotation FAILED
+11/27/2024 5:40:38 PM: Ghost Game Info:
+Boom: Diff=22.90196, Prog=66.02864%, Success=False
+Stick: Diff=21.67835, Prog=69.81972%, Success=False
+Bucket: Diff=22.42051, Prog=75.37332%, Success=False
+Swing: Diff=1.629867, Prog=97.53114%, Success=False
+11/27/2024 5:40:40 PM: SWING Rotation MATCHED
+11/27/2024 5:40:40 PM: Ghost Game Info:
+Boom: Diff=22.56326, Prog=66.53105%, Success=False
+Stick: Diff=22.20341, Prog=69.08874%, Success=False
+Bucket: Diff=22.94576, Prog=74.7964%, Success=False
+Swing: Diff=1.283879, Prog=98.05523%, Success=True
+11/27/2024 5:40:41 PM: SWING Rotation FAILED
+11/27/2024 5:40:41 PM: Ghost Game Info:
+Boom: Diff=22.64377, Prog=66.41163%, Success=False
+Stick: Diff=22.20004, Prog=69.09343%, Success=False
+Bucket: Diff=22.9371, Prog=74.80591%, Success=False
+Swing: Diff=1.812237, Prog=97.25489%, Success=False
+11/27/2024 5:40:42 PM: SWING Rotation MATCHED
+11/27/2024 5:40:42 PM: Ghost Game Info:
+Boom: Diff=22.11918, Prog=67.18978%, Success=False
+Stick: Diff=22.30915, Prog=68.94153%, Success=False
+Bucket: Diff=23.04755, Prog=74.68459%, Success=False
+Swing: Diff=1.477209, Prog=97.76238%, Success=True
+11/27/2024 5:40:42 PM: SWING Rotation FAILED
+11/27/2024 5:40:42 PM: Ghost Game Info:
+Boom: Diff=21.8237, Prog=67.62808%, Success=False
+Stick: Diff=22.61867, Prog=68.51061%, Success=False
+Bucket: Diff=23.36082, Prog=74.3405%, Success=False
+Swing: Diff=1.615881, Prog=97.55232%, Success=False
+11/27/2024 5:40:45 PM: SWING Rotation MATCHED
+11/27/2024 5:40:45 PM: Ghost Game Info:
+Boom: Diff=21.39235, Prog=68.26791%, Success=False
+Stick: Diff=22.46877, Prog=68.71931%, Success=False
+Bucket: Diff=23.21112, Prog=74.50491%, Success=False
+Swing: Diff=1.275316, Prog=98.0682%, Success=True
+11/27/2024 5:40:48 PM: SWING Rotation FAILED
+11/27/2024 5:40:48 PM: Ghost Game Info:
+Boom: Diff=21.37803, Prog=68.28915%, Success=False
+Stick: Diff=21.87268, Prog=69.54917%, Success=False
+Bucket: Diff=22.60962, Prog=75.16561%, Success=False
+Swing: Diff=1.8131, Prog=97.25359%, Success=False
+11/27/2024 5:40:49 PM: SWING Rotation MATCHED
+11/27/2024 5:40:49 PM: Ghost Game Info:
+Boom: Diff=21.86252, Prog=67.57048%, Success=False
+Stick: Diff=19.79277, Prog=72.44479%, Success=False
+Bucket: Diff=20.53108, Prog=77.44868%, Success=False
+Swing: Diff=1.296015, Prog=98.03685%, Success=True
+11/27/2024 5:40:49 PM: SWING Rotation FAILED
+11/27/2024 5:40:49 PM: Ghost Game Info:
+Boom: Diff=20.46528, Prog=69.64307%, Success=False
+Stick: Diff=17.94121, Prog=75.02251%, Success=False
+Bucket: Diff=18.68276, Prog=79.47887%, Success=False
+Swing: Diff=1.720966, Prog=97.39314%, Success=False
+11/27/2024 5:40:50 PM: SWING Rotation MATCHED
+11/27/2024 5:40:50 PM: Ghost Game Info:
+Boom: Diff=18.0112, Prog=73.28329%, Success=False
+Stick: Diff=12.90168, Prog=82.03847%, Success=False
+Bucket: Diff=13.64278, Prog=85.01478%, Success=False
+Swing: Diff=1.432557, Prog=97.83002%, Success=True
+11/27/2024 5:40:50 PM: SWING Rotation FAILED
+11/27/2024 5:40:50 PM: Ghost Game Info:
+Boom: Diff=15.7163, Prog=76.68741%, Success=False
+Stick: Diff=9.205155, Prog=87.18472%, Success=False
+Bucket: Diff=9.930847, Prog=89.09196%, Success=False
+Swing: Diff=1.573175, Prog=97.61701%, Success=False
+11/27/2024 5:40:51 PM: SWING Rotation MATCHED
+11/27/2024 5:40:51 PM: Ghost Game Info:
+Boom: Diff=11.54754, Prog=82.87109%, Success=False
+Stick: Diff=2.732321, Prog=96.19611%, Success=False
+Bucket: Diff=6.029346, Prog=93.37737%, Success=False
+Swing: Diff=1.473496, Prog=97.76801%, Success=True
+11/27/2024 5:40:51 PM: STICK Rotation MATCHED
+11/27/2024 5:40:51 PM: Ghost Game Info:
+Boom: Diff=10.8119, Prog=83.96229%, Success=False
+Stick: Diff=1.376268, Prog=98.08398%, Success=True
+Bucket: Diff=6.675776, Prog=92.66733%, Success=False
+Swing: Diff=0.6167531, Prog=99.06577%, Success=True
+11/27/2024 5:40:52 PM: STICK Rotation FAILED
+11/27/2024 5:40:52 PM: Ghost Game Info:
+Boom: Diff=9.314564, Prog=86.18335%, Success=False
+Stick: Diff=1.957976, Prog=97.27413%, Success=False
+Bucket: Diff=8.734264, Prog=90.40629%, Success=False
+Swing: Diff=1.43801, Prog=97.82175%, Success=True
+11/27/2024 5:40:53 PM: BOOM Rotation MATCHED
+11/27/2024 5:40:53 PM: Ghost Game Info:
+Boom: Diff=1.468707, Prog=97.82141%, Success=True
+Stick: Diff=12.76214, Prog=82.23273%, Success=False
+Bucket: Diff=22.31038, Prog=75.49429%, Success=False
+Swing: Diff=0.3516587, Prog=99.46732%, Success=True
+11/27/2024 5:40:59 PM: BOOM Rotation FAILED
+11/27/2024 5:40:59 PM: Ghost Game Info:
+Boom: Diff=1.778669, Prog=97.36163%, Success=False
+Stick: Diff=14.10176, Prog=80.36774%, Success=False
+Bucket: Diff=114.2305, Prog=-25.47065%, Success=False
+Swing: Diff=1.730943, Prog=97.37804%, Success=False
+11/27/2024 5:40:59 PM: SWING Rotation FAILED
+11/27/2024 5:40:59 PM: Ghost Game Info:
+Boom: Diff=1.778669, Prog=97.36163%, Success=False
+Stick: Diff=14.10176, Prog=80.36774%, Success=False
+Bucket: Diff=114.2305, Prog=-25.47065%, Success=False
+Swing: Diff=1.730943, Prog=97.37804%, Success=False
+11/27/2024 5:41:13 PM: SWING Rotation MATCHED
+11/27/2024 5:41:13 PM: Ghost Game Info:
+Boom: Diff=3.498871, Prog=94.80999%, Success=False
+Stick: Diff=22.43108, Prog=68.77177%, Success=False
+Bucket: Diff=15.4913, Prog=82.98438%, Success=False
+Swing: Diff=1.222676, Prog=98.14793%, Success=True
+11/27/2024 5:41:13 PM: SWING Rotation FAILED
+11/27/2024 5:41:13 PM: Ghost Game Info:
+Boom: Diff=4.115329, Prog=93.89558%, Success=False
+Stick: Diff=23.61838, Prog=67.11883%, Success=False
+Bucket: Diff=16.26926, Prog=82.12986%, Success=False
+Swing: Diff=1.52415, Prog=97.69128%, Success=False
+11/27/2024 5:41:15 PM: SWING Rotation MATCHED
+11/27/2024 5:41:15 PM: Ghost Game Info:
+Boom: Diff=4.00113, Prog=94.06497%, Success=False
+Stick: Diff=26.6712, Prog=62.86874%, Success=False
+Bucket: Diff=13.03463, Prog=85.68278%, Success=False
+Swing: Diff=1.187605, Prog=98.20106%, Success=True
+11/27/2024 5:41:20 PM: SWING Rotation FAILED
+11/27/2024 5:41:20 PM: Ghost Game Info:
+Boom: Diff=3.350293, Prog=95.03038%, Success=False
+Stick: Diff=10.71585, Prog=85.08154%, Success=False
+Bucket: Diff=9.862591, Prog=89.16694%, Success=False
+Swing: Diff=1.55365, Prog=97.64659%, Success=False
+11/27/2024 5:41:20 PM: SWING Rotation MATCHED
+11/27/2024 5:41:20 PM: Ghost Game Info:
+Boom: Diff=2.637275, Prog=96.08803%, Success=False
+Stick: Diff=3.214355, Prog=95.52502%, Success=False
+Bucket: Diff=2.583298, Prog=97.16251%, Success=False
+Swing: Diff=1.296618, Prog=98.03593%, Success=True
+11/27/2024 5:41:20 PM: BUCKET Rotation MATCHED
+11/27/2024 5:41:20 PM: Ghost Game Info:
+Boom: Diff=2.418997, Prog=96.41181%, Success=False
+Stick: Diff=2.015884, Prog=97.19351%, Success=False
+Bucket: Diff=1.387596, Prog=98.47587%, Success=True
+Swing: Diff=0.762071, Prog=98.84564%, Success=True
+11/27/2024 5:41:20 PM: STICK Rotation MATCHED
+11/27/2024 5:41:20 PM: Ghost Game Info:
+Boom: Diff=2.353724, Prog=96.50863%, Success=False
+Stick: Diff=1.480385, Prog=97.93903%, Success=True
+Bucket: Diff=0.8522514, Prog=99.06389%, Success=True
+Swing: Diff=0.5263743, Prog=99.20267%, Success=True
+11/27/2024 5:41:21 PM: BUCKET Rotation FAILED
+11/27/2024 5:41:21 PM: Ghost Game Info:
+Boom: Diff=2.216363, Prog=96.71239%, Success=False
+Stick: Diff=1.14191, Prog=98.41025%, Success=True
+Bucket: Diff=1.828575, Prog=97.99149%, Success=False
+Swing: Diff=0, Prog=100%, Success=True
+11/27/2024 5:41:21 PM: STICK Rotation FAILED
+11/27/2024 5:41:21 PM: Ghost Game Info:
+Boom: Diff=2.169245, Prog=96.78227%, Success=False
+Stick: Diff=1.627464, Prog=97.73427%, Success=False
+Bucket: Diff=2.314151, Prog=97.45814%, Success=False
+Swing: Diff=0, Prog=100%, Success=True
+11/27/2024 5:41:21 PM: BOOM Rotation MATCHED
+11/27/2024 5:41:21 PM: Ghost Game Info:
+Boom: Diff=1.496163, Prog=97.78069%, Success=True
+Stick: Diff=5.759137, Prog=91.98222%, Success=False
+Bucket: Diff=6.422031, Prog=92.94604%, Success=False
+Swing: Diff=1.266076, Prog=98.0822%, Success=True
+11/27/2024 5:41:22 PM: STICK Rotation MATCHED
+11/27/2024 5:41:22 PM: Ghost Game Info:
+Boom: Diff=0.3357176, Prog=99.50201%, Success=True
+Stick: Diff=1.408311, Prog=98.03937%, Success=True
+Bucket: Diff=2.090977, Prog=97.70327%, Success=False
+Swing: Diff=0.2683408, Prog=99.59353%, Success=True
+11/27/2024 5:41:22 PM: BUCKET Rotation MATCHED
+11/27/2024 5:41:22 PM: Ghost Game Info:
+Boom: Diff=0.4579946, Prog=99.32064%, Success=True
+Stick: Diff=0.7401887, Prog=98.96952%, Success=True
+Bucket: Diff=1.411642, Prog=98.44946%, Success=True
+Swing: Diff=0.2683408, Prog=99.59353%, Success=True
+11/27/2024 5:41:22 PM: EXCAVATOR RotationS MATCHED
+11/27/2024 5:41:22 PM: Ghost Game Info:
+Boom: Diff=0.4579946, Prog=99.32064%, Success=True
+Stick: Diff=0.7401887, Prog=98.96952%, Success=True
+Bucket: Diff=1.411642, Prog=98.44946%, Success=True
+Swing: Diff=0.2683408, Prog=99.59353%, Success=True
+11/27/2024 5:41:22 PM: GHOST ROUND 1 MINIATURE FINISHED IN 74.33346 SEC.
+11/27/2024 5:41:22 PM: [Physics] Boom: (-0.05310, 0.86504, -0.49008, -0.09331), Stick: (-0.10345, 0.27380, -0.95575, -0.02952), Bucket: (-0.02671, 0.96317, -0.24654, -0.10397), Swing: 0.9942177
+[Ghost] Boom: (0.05469, -0.86320, 0.49279, 0.09514), Stick: (0.10542, -0.27955, 0.95383, 0.03073), Bucket: (-0.02576, 0.96580, -0.23486, -0.10684), Swing: (0.00001, -0.99395, 0.00002, 0.10982)
+11/27/2024 5:41:28 PM: GHOST ROUND 2 MINIATURE STARTED
+11/27/2024 5:41:28 PM: [Physics] Boom: (-0.38171, 0.61704, -0.45903, -0.51270), Stick: (-0.63927, 0.01069, -0.76885, -0.00884), Bucket: (-0.47882, 0.50962, -0.57598, -0.42340), Swing: 0.7690364
+[Ghost] Boom: (0.05469, -0.86320, 0.49279, 0.09514), Stick: (0.10542, -0.27955, 0.95383, 0.03073), Bucket: (-0.02576, 0.96580, -0.23486, -0.10684), Swing: (0.00001, -0.99395, 0.00002, 0.10982)
+11/27/2024 5:41:28 PM: BOOM Rotation FAILED
+11/27/2024 5:41:28 PM: Ghost Game Info:
+Boom: Diff=68.11343, Prog=-1.035248%, Success=False
+Stick: Diff=72.97011, Prog=-1.587929%, Success=False
+Bucket: Diff=93.52377, Prog=-2.726433%, Success=False
+Swing: Diff=66.85511, Prog=-1.269592%, Success=False
+11/27/2024 5:41:28 PM: STICK Rotation FAILED
+11/27/2024 5:41:28 PM: Ghost Game Info:
+Boom: Diff=68.11343, Prog=-1.035248%, Success=False
+Stick: Diff=72.97011, Prog=-1.587929%, Success=False
+Bucket: Diff=93.52377, Prog=-2.726433%, Success=False
+Swing: Diff=66.85511, Prog=-1.269592%, Success=False
+11/27/2024 5:41:28 PM: BUCKET Rotation FAILED
+11/27/2024 5:41:28 PM: Ghost Game Info:
+Boom: Diff=68.11343, Prog=-1.035248%, Success=False
+Stick: Diff=72.97011, Prog=-1.587929%, Success=False
+Bucket: Diff=93.52377, Prog=-2.726433%, Success=False
+Swing: Diff=66.85511, Prog=-1.269592%, Success=False
+11/27/2024 5:41:28 PM: SWING Rotation FAILED
+11/27/2024 5:41:28 PM: Ghost Game Info:
+Boom: Diff=68.11343, Prog=-1.035248%, Success=False
+Stick: Diff=72.97011, Prog=-1.587929%, Success=False
+Bucket: Diff=93.52377, Prog=-2.726433%, Success=False
+Swing: Diff=66.85511, Prog=-1.269592%, Success=False
+11/27/2024 5:41:28 PM: EXCAVATOR RotationS FAILED
+11/27/2024 5:41:28 PM: Ghost Game Info:
+Boom: Diff=68.11343, Prog=-1.035248%, Success=False
+Stick: Diff=72.97011, Prog=-1.587929%, Success=False
+Bucket: Diff=93.52377, Prog=-2.726433%, Success=False
+Swing: Diff=66.85511, Prog=-1.269592%, Success=False
+11/27/2024 5:42:03 PM: SWING Rotation MATCHED
+11/27/2024 5:42:03 PM: Ghost Game Info:
+Boom: Diff=20.46302, Prog=79.06609%, Success=False
+Stick: Diff=39.91352, Prog=59.20998%, Success=False
+Bucket: Diff=40.53554, Prog=66.47403%, Success=False
+Swing: Diff=1.494069, Prog=98.44053%, Success=True
+11/27/2024 5:42:04 PM: SWING Rotation FAILED
+11/27/2024 5:42:04 PM: Ghost Game Info:
+Boom: Diff=20.72962, Prog=78.79335%, Success=False
+Stick: Diff=40.17549, Prog=58.94226%, Success=False
+Bucket: Diff=40.7948, Prog=66.25961%, Success=False
+Swing: Diff=1.603725, Prog=98.32607%, Success=False
+11/27/2024 5:42:13 PM: SWING Rotation MATCHED
+11/27/2024 5:42:13 PM: Ghost Game Info:
+Boom: Diff=5.445366, Prog=94.42932%, Success=False
+Stick: Diff=46.28516, Prog=52.69842%, Success=False
+Bucket: Diff=46.90522, Prog=61.20582%, Success=False
+Swing: Diff=1.331169, Prog=98.61056%, Success=True
+11/27/2024 5:42:14 PM: BOOM Rotation MATCHED
+11/27/2024 5:42:14 PM: Ghost Game Info:
+Boom: Diff=1.373991, Prog=98.59439%, Success=True
+Stick: Diff=52.72568, Prog=46.11647%, Success=False
+Bucket: Diff=53.34692, Prog=55.87804%, Success=False
+Swing: Diff=0.4861793, Prog=99.49254%, Success=True
+11/27/2024 5:42:14 PM: BOOM Rotation FAILED
+11/27/2024 5:42:14 PM: Ghost Game Info:
+Boom: Diff=1.562692, Prog=98.40134%, Success=False
+Stick: Diff=54.82915, Prog=43.9668%, Success=False
+Bucket: Diff=55.45037, Prog=54.13833%, Success=False
+Swing: Diff=0.4861793, Prog=99.49254%, Success=True
+11/27/2024 5:42:22 PM: BOOM Rotation MATCHED
+11/27/2024 5:42:22 PM: Ghost Game Info:
+Boom: Diff=1.472965, Prog=98.49314%, Success=True
+Stick: Diff=34.33942, Prog=64.90649%, Success=False
+Bucket: Diff=34.96028, Prog=71.08519%, Success=False
+Swing: Diff=0.2880353, Prog=99.69936%, Success=True
+11/27/2024 5:42:23 PM: BOOM Rotation FAILED
+11/27/2024 5:42:23 PM: Ghost Game Info:
+Boom: Diff=1.570187, Prog=98.39368%, Success=False
+Stick: Diff=37.32226, Prog=61.85814%, Success=False
+Bucket: Diff=37.94318, Prog=68.61811%, Success=False
+Swing: Diff=0.2880353, Prog=99.69936%, Success=True
+11/27/2024 5:42:26 PM: BOOM Rotation MATCHED
+11/27/2024 5:42:26 PM: Ghost Game Info:
+Boom: Diff=1.445069, Prog=98.52168%, Success=True
+Stick: Diff=51.97481, Prog=46.88382%, Success=False
+Bucket: Diff=52.59517, Prog=56.4998%, Success=False
+Swing: Diff=1.327047, Prog=98.61486%, Success=True
+11/27/2024 5:42:26 PM: BOOM Rotation FAILED
+11/27/2024 5:42:26 PM: Ghost Game Info:
+Boom: Diff=1.647065, Prog=98.31503%, Success=False
+Stick: Diff=53.57111, Prog=45.25247%, Success=False
+Bucket: Diff=54.19136, Prog=55.17963%, Success=False
+Swing: Diff=1.588031, Prog=98.34245%, Success=False
+11/27/2024 5:42:26 PM: SWING Rotation FAILED
+11/27/2024 5:42:26 PM: Ghost Game Info:
+Boom: Diff=1.647065, Prog=98.31503%, Success=False
+Stick: Diff=53.57111, Prog=45.25247%, Success=False
+Bucket: Diff=54.19136, Prog=55.17963%, Success=False
+Swing: Diff=1.588031, Prog=98.34245%, Success=False
+11/27/2024 5:42:36 PM: SWING Rotation MATCHED
+11/27/2024 5:42:36 PM: Ghost Game Info:
+Boom: Diff=10.20339, Prog=89.56181%, Success=False
+Stick: Diff=47.05324, Prog=51.91347%, Success=False
+Bucket: Diff=47.67337, Prog=60.5705%, Success=False
+Swing: Diff=1.342294, Prog=98.59895%, Success=True
+11/27/2024 5:42:39 PM: SWING Rotation FAILED
+11/27/2024 5:42:39 PM: Ghost Game Info:
+Boom: Diff=10.26343, Prog=89.50039%, Success=False
+Stick: Diff=47.05716, Prog=51.90947%, Success=False
+Bucket: Diff=47.67881, Prog=60.566%, Success=False
+Swing: Diff=1.72233, Prog=98.20227%, Success=False
+11/27/2024 5:42:41 PM: SWING Rotation MATCHED
+11/27/2024 5:42:41 PM: Ghost Game Info:
+Boom: Diff=10.24998, Prog=89.51414%, Success=False
+Stick: Diff=47.02546, Prog=51.94186%, Success=False
+Bucket: Diff=47.64713, Prog=60.5922%, Success=False
+Swing: Diff=1.481442, Prog=98.4537%, Success=True
+11/27/2024 5:42:41 PM: SWING Rotation FAILED
+11/27/2024 5:42:41 PM: Ghost Game Info:
+Boom: Diff=10.27251, Prog=89.4911%, Success=False
+Stick: Diff=47.03188, Prog=51.9353%, Success=False
+Bucket: Diff=47.6517, Prog=60.58843%, Success=False
+Swing: Diff=1.614427, Prog=98.3149%, Success=False
+11/27/2024 5:43:08 PM: SWING Rotation MATCHED
+11/27/2024 5:43:08 PM: Ghost Game Info:
+Boom: Diff=2.173211, Prog=97.77678%, Success=False
+Stick: Diff=5.93431, Prog=93.93537%, Success=False
+Bucket: Diff=5.313056, Prog=95.6057%, Success=False
+Swing: Diff=1.348113, Prog=98.59287%, Success=True
+11/27/2024 5:43:08 PM: SWING Rotation FAILED
+11/27/2024 5:43:08 PM: Ghost Game Info:
+Boom: Diff=2.846256, Prog=97.08824%, Success=False
+Stick: Diff=7.315681, Prog=92.52367%, Success=False
+Bucket: Diff=6.737082, Prog=94.42792%, Success=False
+Swing: Diff=1.752067, Prog=98.17123%, Success=False
+11/27/2024 5:43:10 PM: SWING Rotation MATCHED
+11/27/2024 5:43:10 PM: Ghost Game Info:
+Boom: Diff=1.975883, Prog=97.97865%, Success=False
+Stick: Diff=3.76464, Prog=96.15269%, Success=False
+Bucket: Diff=3.241516, Prog=97.31902%, Success=False
+Swing: Diff=1.490397, Prog=98.44436%, Success=True
+11/27/2024 5:43:11 PM: BOOM Rotation MATCHED
+11/27/2024 5:43:11 PM: Ghost Game Info:
+Boom: Diff=1.299633, Prog=98.67046%, Success=True
+Stick: Diff=2.944661, Prog=96.99068%, Success=False
+Bucket: Diff=2.39983, Prog=98.01516%, Success=False
+Swing: Diff=0.9512023, Prog=99.00716%, Success=True
+11/27/2024 5:43:11 PM: BUCKET Rotation MATCHED
+11/27/2024 5:43:11 PM: Ghost Game Info:
+Boom: Diff=0.3711498, Prog=99.62031%, Success=True
+Stick: Diff=1.857876, Prog=98.10133%, Success=False
+Bucket: Diff=1.262362, Prog=98.95593%, Success=True
+Swing: Diff=0.1938266, Prog=99.79769%, Success=True
+11/27/2024 5:43:11 PM: STICK Rotation MATCHED
+11/27/2024 5:43:11 PM: Ghost Game Info:
+Boom: Diff=0.3357176, Prog=99.65656%, Success=True
+Stick: Diff=1.182321, Prog=98.79172%, Success=True
+Bucket: Diff=0.5855045, Prog=99.51575%, Success=True
+Swing: Diff=0.323851, Prog=99.66197%, Success=True
+11/27/2024 5:43:11 PM: EXCAVATOR RotationS MATCHED
+11/27/2024 5:43:11 PM: Ghost Game Info:
+Boom: Diff=0.3357176, Prog=99.65656%, Success=True
+Stick: Diff=1.182321, Prog=98.79172%, Success=True
+Bucket: Diff=0.5855045, Prog=99.51575%, Success=True
+Swing: Diff=0.323851, Prog=99.66197%, Success=True
+11/27/2024 5:43:11 PM: BUCKET Rotation FAILED
+11/27/2024 5:43:11 PM: Ghost Game Info:
+Boom: Diff=1.477209, Prog=98.4888%, Success=True
+Stick: Diff=1.403858, Prog=98.56532%, Success=True
+Bucket: Diff=1.617817, Prog=98.66194%, Success=False
+Swing: Diff=1.342294, Prog=98.59895%, Success=True
+11/27/2024 5:43:11 PM: EXCAVATOR RotationS FAILED
+11/27/2024 5:43:11 PM: Ghost Game Info:
+Boom: Diff=1.477209, Prog=98.4888%, Success=True
+Stick: Diff=1.403858, Prog=98.56532%, Success=True
+Bucket: Diff=1.617817, Prog=98.66194%, Success=False
+Swing: Diff=1.342294, Prog=98.59895%, Success=True
+11/27/2024 5:43:11 PM: BOOM Rotation FAILED
+11/27/2024 5:43:11 PM: Ghost Game Info:
+Boom: Diff=1.764975, Prog=98.19441%, Success=False
+Stick: Diff=1.786134, Prog=98.17464%, Success=False
+Bucket: Diff=2.072553, Prog=98.28584%, Success=False
+Swing: Diff=1.602261, Prog=98.3276%, Success=False
+11/27/2024 5:43:11 PM: STICK Rotation FAILED
+11/27/2024 5:43:11 PM: Ghost Game Info:
+Boom: Diff=1.764975, Prog=98.19441%, Success=False
+Stick: Diff=1.786134, Prog=98.17464%, Success=False
+Bucket: Diff=2.072553, Prog=98.28584%, Success=False
+Swing: Diff=1.602261, Prog=98.3276%, Success=False
+11/27/2024 5:43:11 PM: SWING Rotation FAILED
+11/27/2024 5:43:11 PM: Ghost Game Info:
+Boom: Diff=1.764975, Prog=98.19441%, Success=False
+Stick: Diff=1.786134, Prog=98.17464%, Success=False
+Bucket: Diff=2.072553, Prog=98.28584%, Success=False
+Swing: Diff=1.602261, Prog=98.3276%, Success=False
+11/27/2024 5:43:13 PM: SWING Rotation MATCHED
+11/27/2024 5:43:13 PM: Ghost Game Info:
+Boom: Diff=3.087153, Prog=96.8418%, Success=False
+Stick: Diff=5.487049, Prog=94.39246%, Success=False
+Bucket: Diff=6.076307, Prog=94.97443%, Success=False
+Swing: Diff=1.347532, Prog=98.59348%, Success=True
+11/27/2024 5:43:16 PM: SWING Rotation FAILED
+11/27/2024 5:43:16 PM: Ghost Game Info:
+Boom: Diff=3.481826, Prog=96.43805%, Success=False
+Stick: Diff=5.411615, Prog=94.46954%, Success=False
+Bucket: Diff=5.989865, Prog=95.04593%, Success=False
+Swing: Diff=1.595407, Prog=98.33475%, Success=False
+11/27/2024 5:43:30 PM: SWING Rotation MATCHED
+11/27/2024 5:43:30 PM: Ghost Game Info:
+Boom: Diff=4.213087, Prog=95.68996%, Success=False
+Stick: Diff=4.465486, Prog=95.43645%, Success=False
+Bucket: Diff=5.042227, Prog=95.8297%, Success=False
+Swing: Diff=1.359099, Prog=98.58141%, Success=True
+11/27/2024 5:43:31 PM: STICK Rotation MATCHED
+11/27/2024 5:43:31 PM: Ghost Game Info:
+Boom: Diff=2.705257, Prog=97.23249%, Success=False
+Stick: Diff=1.494069, Prog=98.47312%, Success=True
+Bucket: Diff=2.049386, Prog=98.305%, Success=False
+Swing: Diff=0.9795785, Prog=98.97754%, Success=True
+11/27/2024 5:43:31 PM: STICK Rotation FAILED
+11/27/2024 5:43:31 PM: Ghost Game Info:
+Boom: Diff=2.695982, Prog=97.24197%, Success=False
+Stick: Diff=1.527228, Prog=98.43923%, Success=False
+Bucket: Diff=2.014331, Prog=98.33399%, Success=False
+Swing: Diff=1.237312, Prog=98.70852%, Success=True
+11/27/2024 5:43:31 PM: SWING Rotation FAILED
+11/27/2024 5:43:31 PM: Ghost Game Info:
+Boom: Diff=2.724574, Prog=97.21273%, Success=False
+Stick: Diff=1.653231, Prog=98.31046%, Success=False
+Bucket: Diff=2.05701, Prog=98.2987%, Success=False
+Swing: Diff=1.514362, Prog=98.41934%, Success=False
+11/27/2024 5:43:32 PM: BOOM Rotation MATCHED
+11/27/2024 5:43:32 PM: Ghost Game Info:
+Boom: Diff=1.347532, Prog=98.62146%, Success=True
+Stick: Diff=1.764975, Prog=98.19627%, Success=False
+Bucket: Diff=2.293084, Prog=98.10345%, Success=False
+Swing: Diff=1.259879, Prog=98.68497%, Success=True
+11/27/2024 5:43:32 PM: SWING Rotation MATCHED
+11/27/2024 5:43:32 PM: Ghost Game Info:
+Boom: Diff=1.347532, Prog=98.62146%, Success=True
+Stick: Diff=1.764975, Prog=98.19627%, Success=False
+Bucket: Diff=2.293084, Prog=98.10345%, Success=False
+Swing: Diff=1.259879, Prog=98.68497%, Success=True
+11/27/2024 5:43:32 PM: BOOM Rotation FAILED
+11/27/2024 5:43:32 PM: Ghost Game Info:
+Boom: Diff=1.726415, Prog=98.23386%, Success=False
+Stick: Diff=3.191382, Prog=96.73853%, Success=False
+Bucket: Diff=3.807235, Prog=96.85113%, Success=False
+Swing: Diff=0.2769528, Prog=99.71092%, Success=True
+11/27/2024 5:43:32 PM: SWING Rotation FAILED
+11/27/2024 5:43:32 PM: Ghost Game Info:
+Boom: Diff=3.132961, Prog=96.79494%, Success=False
+Stick: Diff=5.054169, Prog=94.83484%, Success=False
+Bucket: Diff=5.628494, Prog=95.34481%, Success=False
+Swing: Diff=1.576654, Prog=98.35432%, Success=False
+11/27/2024 5:43:35 PM: SWING Rotation MATCHED
+11/27/2024 5:43:35 PM: Ghost Game Info:
+Boom: Diff=7.375922, Prog=92.45435%, Success=False
+Stick: Diff=10.11762, Prog=89.6602%, Success=False
+Bucket: Diff=10.72587, Prog=91.12889%, Success=False
+Swing: Diff=1.331757, Prog=98.60994%, Success=True
+11/27/2024 5:43:38 PM: SWING Rotation FAILED
+11/27/2024 5:43:38 PM: Ghost Game Info:
+Boom: Diff=7.605848, Prog=92.21912%, Success=False
+Stick: Diff=9.278997, Prog=90.51723%, Success=False
+Bucket: Diff=9.881721, Prog=91.82706%, Success=False
+Swing: Diff=1.571184, Prog=98.36003%, Success=False
+11/27/2024 5:43:45 PM: SWING Rotation MATCHED
+11/27/2024 5:43:45 PM: Ghost Game Info:
+Boom: Diff=2.943066, Prog=96.98921%, Success=False
+Stick: Diff=14.15474, Prog=85.53442%, Success=False
+Bucket: Diff=14.76795, Prog=87.78578%, Success=False
+Swing: Diff=1.326457, Prog=98.61547%, Success=True
+11/27/2024 5:43:45 PM: SWING Rotation FAILED
+11/27/2024 5:43:45 PM: Ghost Game Info:
+Boom: Diff=5.0371, Prog=94.84698%, Success=False
+Stick: Diff=15.91716, Prog=83.73331%, Success=False
+Bucket: Diff=16.54165, Prog=86.3188%, Success=False
+Swing: Diff=1.511258, Prog=98.42258%, Success=False
+11/27/2024 5:43:46 PM: SWING Rotation MATCHED
+11/27/2024 5:43:46 PM: Ghost Game Info:
+Boom: Diff=6.689488, Prog=93.15657%, Success=False
+Stick: Diff=14.85797, Prog=84.81575%, Success=False
+Bucket: Diff=15.48258, Prog=87.19473%, Success=False
+Swing: Diff=1.247392, Prog=98.698%, Success=True
+11/27/2024 5:43:49 PM: SWING Rotation FAILED
+11/27/2024 5:43:49 PM: Ghost Game Info:
+Boom: Diff=4.894253, Prog=94.99312%, Success=False
+Stick: Diff=2.45529, Prog=97.49079%, Success=False
+Bucket: Diff=3.013243, Prog=97.50782%, Success=False
+Swing: Diff=1.500342, Prog=98.43398%, Success=False
+11/27/2024 5:43:53 PM: STICK Rotation MATCHED
+11/27/2024 5:43:53 PM: Ghost Game Info:
+Boom: Diff=1.662673, Prog=98.29906%, Success=False
+Stick: Diff=1.487769, Prog=98.47956%, Success=True
+Bucket: Diff=1.756529, Prog=98.54722%, Success=False
+Swing: Diff=1.490397, Prog=98.44436%, Success=True
+11/27/2024 5:43:53 PM: SWING Rotation MATCHED
+11/27/2024 5:43:53 PM: Ghost Game Info:
+Boom: Diff=1.662673, Prog=98.29906%, Success=False
+Stick: Diff=1.487769, Prog=98.47956%, Success=True
+Bucket: Diff=1.756529, Prog=98.54722%, Success=False
+Swing: Diff=1.490397, Prog=98.44436%, Success=True
+11/27/2024 5:43:53 PM: BOOM Rotation MATCHED
+11/27/2024 5:43:53 PM: Ghost Game Info:
+Boom: Diff=1.439098, Prog=98.52779%, Success=True
+Stick: Diff=1.225234, Prog=98.74786%, Success=True
+Bucket: Diff=1.49982, Prog=98.75954%, Success=True
+Swing: Diff=1.232876, Prog=98.71315%, Success=True
+11/27/2024 5:43:53 PM: BUCKET Rotation MATCHED
+11/27/2024 5:43:53 PM: Ghost Game Info:
+Boom: Diff=1.439098, Prog=98.52779%, Success=True
+Stick: Diff=1.225234, Prog=98.74786%, Success=True
+Bucket: Diff=1.49982, Prog=98.75954%, Success=True
+Swing: Diff=1.232876, Prog=98.71315%, Success=True
+11/27/2024 5:43:53 PM: EXCAVATOR RotationS MATCHED
+11/27/2024 5:43:53 PM: Ghost Game Info:
+Boom: Diff=1.439098, Prog=98.52779%, Success=True
+Stick: Diff=1.225234, Prog=98.74786%, Success=True
+Bucket: Diff=1.49982, Prog=98.75954%, Success=True
+Swing: Diff=1.232876, Prog=98.71315%, Success=True
+11/27/2024 5:43:53 PM: GHOST ROUND 2 MINIATURE FINISHED IN 145.06562 SEC.
+11/27/2024 5:43:53 PM: [Physics] Boom: (-0.43087, 0.04524, -0.02146, -0.90103), Stick: (-0.97351, 0.01123, -0.04855, -0.22314), Bucket: (-0.99867, 0.00073, -0.05006, -0.01255), Swing: 0.05004114
+[Ghost] Boom: (0.42489, -0.04410, 0.02028, 0.90394), Stick: (0.97166, -0.01152, 0.04693, 0.23140), Bucket: (-0.99873, 0.00205, -0.04786, -0.01556), Swing: (0.00003, -0.04839, 0.00000, 0.99883)
+11/27/2024 5:43:57 PM: GHOST GAME FINISHED
+11/27/2024 5:43:59 PM: BUCKET GAME STARTED.
+11/27/2024 5:44:03 PM: BUCKET ROUND 0 MINIATURE STARTED
+11/27/2024 5:44:03 PM: dropSandPoint position: (-9.18, 0.06, 18.67), bigSandPile position: (-8.99, 0.75, 24.74), targetLocation position: (-7.95, -4.73, 15.80), fullDistance: 9.000288, fullAngle: 124.4103
+11/27/2024 5:44:46 PM: BUCKET CAN BE FILLED
+11/27/2024 5:44:49 PM: BUCKET IS FILLED
+11/27/2024 5:45:27 PM: BUCKET ROUND 0 MINIATURE FINISHED IN 84.244562 SEC with 2 failed attempts.
+11/27/2024 5:45:27 PM: dropSandPoint position: (-9.63, -2.06, 17.55), bigSandPile position: (-8.99, 0.75, 24.74), targetLocation position: (-7.95, -4.73, 15.80), fullDistance: 9.000288, fullAngle: 124.4103
+11/27/2024 5:45:27 PM: SAND DROPPED AT: (-9.63, -2.06, 17.55). TARGET REACHED
+11/27/2024 5:45:27 PM: Bucket: isEmpty
+Target: Dist=(1.679696, 1.754415), DirectDist=2.428858, PositionProg=73.01356%, CurrAngle=17.60686, AngleProg=85.84775%SandPile: Dist=(0.6396961, 7.185585), DirectDist=7.214003, PositionProg=19.84698%, CurrAngle=40.7802, AngleProg=67.2212%
+11/27/2024 5:45:36 PM: BUCKET ROUND 1 MINIATURE STARTED
+11/27/2024 5:45:36 PM: dropSandPoint position: (-9.18, 0.06, 18.67), bigSandPile position: (-8.99, 0.75, 24.74), targetLocation position: (-7.41, -6.06, 18.58), fullDistance: 6.359402, fullAngle: 129.9922
+11/27/2024 5:45:42 PM: BUCKET CAN BE FILLED
+11/27/2024 5:45:45 PM: BUCKET CANNOT BE FILLED
+11/27/2024 5:45:54 PM: BUCKET CAN BE FILLED
+11/27/2024 5:46:05 PM: BUCKET IS FILLED
+11/27/2024 5:46:33 PM: SAND DROPPED AT: (-12.14, 2.91, 20.79). TARGET MISSED
+11/27/2024 5:46:33 PM: Bucket: isEmpty
+Target: Dist=(4.730151, 2.216249), DirectDist=5.223609, PositionProg=17.86006%, CurrAngle=49.76964, AngleProg=61.71335%SandPile: Dist=(3.150151, 3.94375), DirectDist=5.047437, PositionProg=20.63033%, CurrAngle=24.17923, AngleProg=81.39947%
+11/27/2024 5:46:44 PM: BUCKET CAN BE FILLED
+11/27/2024 5:46:47 PM: BUCKET CANNOT BE FILLED
+11/27/2024 5:46:52 PM: BUCKET CAN BE FILLED
+11/27/2024 5:46:57 PM: BUCKET CANNOT BE FILLED
+11/27/2024 5:47:03 PM: BUCKET CAN BE FILLED
+11/27/2024 5:47:03 PM: BUCKET CANNOT BE FILLED
+11/27/2024 5:47:03 PM: BUCKET CAN BE FILLED
+11/27/2024 5:47:06 PM: BUCKET CANNOT BE FILLED
+11/27/2024 5:47:15 PM: BUCKET CAN BE FILLED
+11/27/2024 5:47:20 PM: BUCKET IS FILLED
+11/27/2024 5:48:03 PM: BUCKET ROUND 1 MINIATURE FINISHED IN 147.447482 SEC with 3 failed attempts.
+11/27/2024 5:48:03 PM: dropSandPoint position: (-9.58, -4.69, 19.51), bigSandPile position: (-8.99, 0.75, 24.74), targetLocation position: (-7.41, -6.06, 18.58), fullDistance: 6.359402, fullAngle: 129.9922
+11/27/2024 5:48:03 PM: SAND DROPPED AT: (-9.58, -4.69, 19.51). TARGET REACHED
+11/27/2024 5:48:03 PM: Bucket: isEmpty
+Target: Dist=(2.16533, 0.9316769), DirectDist=2.35726, PositionProg=62.93267%, CurrAngle=12.75244, AngleProg=90.18983%SandPile: Dist=(0.58533, 5.228323), DirectDist=5.260986, PositionProg=17.27232%, CurrAngle=38.06442, AngleProg=70.71791%
+11/27/2024 5:48:11 PM: BUCKET ROUND 2 MINIATURE STARTED
+11/27/2024 5:48:11 PM: dropSandPoint position: (-9.18, 0.06, 18.67), bigSandPile position: (-8.99, 0.75, 24.74), targetLocation position: (3.13, -2.03, 30.98), fullDistance: 13.63202, fullAngle: 99.33078
+11/27/2024 5:48:11 PM: BUCKET CAN BE FILLED
+11/27/2024 5:48:14 PM: BUCKET CANNOT BE FILLED
+11/27/2024 5:48:14 PM: BUCKET CAN BE FILLED
+11/27/2024 5:48:15 PM: BUCKET CANNOT BE FILLED
+11/27/2024 5:48:20 PM: BUCKET CAN BE FILLED
+11/27/2024 5:48:30 PM: BUCKET IS FILLED
+11/27/2024 5:48:38 PM: SAND DROPPED AT: (-12.32, -0.19, 25.79). TARGET MISSED
+11/27/2024 5:48:38 PM: Bucket: isEmpty
+Target: Dist=(15.44455, 5.186226), DirectDist=16.29206, PositionProg=-19.51312%, CurrAngle=80.70976, AngleProg=18.74647%SandPile: Dist=(3.324549, 1.053776), DirectDist=3.487559, PositionProg=74.41642%, CurrAngle=2.901245, AngleProg=97.07921%
+11/27/2024 5:49:00 PM: BUCKET CAN BE FILLED
+11/27/2024 5:49:05 PM: BUCKET IS FILLED
+11/27/2024 5:49:49 PM: BUCKET ROUND 2 MINIATURE FINISHED IN 98.17444 SEC with 4 failed attempts.
+11/27/2024 5:49:49 PM: dropSandPoint position: (1.72, -3.16, 30.95), bigSandPile position: (-8.99, 0.75, 24.74), targetLocation position: (3.13, -2.03, 30.98), fullDistance: 13.63202, fullAngle: 99.33078
+11/27/2024 5:49:49 PM: SAND DROPPED AT: (1.72, -3.16, 30.95). TARGET REACHED
+11/27/2024 5:49:49 PM: Bucket: isEmpty
+Target: Dist=(1.410838, 0.02737045), DirectDist=1.411104, PositionProg=89.64861%, CurrAngle=9.331589, AngleProg=90.60554%SandPile: Dist=(10.70916, 6.212631), DirectDist=12.38075, PositionProg=9.178926%, CurrAngle=73.5212, AngleProg=25.98347%
+11/27/2024 5:49:55 PM: BUCKET GAME FINISHED
