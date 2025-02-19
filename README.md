@@ -1,9 +1,27 @@
-# Intuitive VR Control Interface of Heavy Machinery
+# 🚀 Transforming Heavy Machinery Control Interfaces with VR  
 
-Virtual reality enables the creation of User Interfaces that are difficult or impractical to implement in the real world.
-This thesis focuses on designing and implementing an intuitive Virtual Reality (VR) control system for operating heavy construction machinery, such as excavators and loaders.
-Traditional control systems rely on a complex combination of levers, switches, and buttons, which require extensive training and pose challenges for new users.
-The proposed VR Control Interface simplifies this process by providing an immersive and intuitive control system that allows users to interact with a virtual model of the construction machine in a realistic manner.
-The system visualizes the machine's inertia and the positional difference between the current and desired states, enabling users to better understand and predict the machine's movements.
-A User Study was conducted to evaluate the performance of the VR Control Interface in comparison to traditional controls.
-The study examines key metrics such as task completion time, accuracy, and error rates, highlighting the potential of VR Control Interfaces to reduce learning time, improve operational accuracy, and enhance User Experience in Heavy Machinery operation.
+This project isn't just a research experiment—it’s a **glimpse into the future of industrial operations**. By replacing **complex levers and buttons** with an **intuitive VR interface**, we’re making heavy machinery **faster to learn, easier to control, and more precise than ever**. Imagine reducing training time, minimizing errors, and boosting efficiency—all through an **immersive, game-like experience**.  
+
+From construction sites to remote-controlled operations, this technology has the **potential to revolutionize the industry**, making machine control **smarter, safer, and more accessible** for the next generation of operators. 🔥  
+
+## 📂 Repository Structure  
+
+- **`VREX_UNITY/`** – Contains the **Unity project** with the full implementation of the VR Control Interface.  
+- **`blender_files/`** – 3D models and assets used for the VR interface, created in **Blender**.  
+- **`screenshots/`** – Visuals showcasing the VR system, user study setup, and comparison of control methods.  
+- **`user_study/`** – Includes **graphs, screenshots, and data** from the **user study**, evaluating performance metrics between traditional and VR controls.  
+- **`Intuitive_VR_Interface_for_the_Control_of_...`** – The **final thesis document**, detailing the research, methodology, and findings.  
+- **`VREX_presentation.pdf`** – The **final presentation**, summarizing the project and results.  
+
+## 🎮 Try It Yourself!  
+
+A **demo application** is available, allowing users to test both the **traditional joystick control** and the **newly designed VR interface**. Two sets of tasks help users experience firsthand how VR can **enhance precision, reduce errors, and speed up learning** in heavy machinery operation. 🚀  
+
+## 🛠️ Get the Build  
+
+The **build is available upon request**. Please contact me at 📩 **[alca.neumannova@gmail.com](mailto:alca.neumannova@gmail.com)** for access.  
+
+## 📖 Read the Full Thesis  
+
+For a detailed explanation of the research, methodology, and results, check out the full thesis here:  
+🔗 [Official Thesis Document](https://is.muni.cz/th/v2203/?lang=en;info=1)  
