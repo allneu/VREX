@@ -19,7 +19,7 @@ A **demo application** is available, allowing users to test both the **tradition
 
 ## 🛠️ Get the Build  
 
-The **build is available upon request**. Please contact me at 📩 **[alca.neumannova@gmail.com](mailto:alca.neumannova@gmail.com)** for access.  
+The **build is available here as a release or upon request**. Please contact me at 📩 **[alca.neumannova@gmail.com](mailto:alca.neumannova@gmail.com)** in case you have any questions or would like to connect. 
 
 ## 📖 Read the Full Thesis  
 
