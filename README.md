@@ -17,7 +17,7 @@ From construction sites to remote-controlled operations, this technology has the
 
 A **demo application** is available, allowing users to test both the **traditional joystick control** and the **newly designed VR interface**. Two sets of tasks help users experience firsthand how VR can **enhance precision, reduce errors, and speed up learning** in heavy machinery operation. 🚀
 
-🔗 [SideQuest Link]((https://sidequestvr.com/app/41677/vrex))
+🔗 [SideQuest Link](https://sidequestvr.com/app/41677/vrex)
 
 ## 🛠️ Get the Build
 
